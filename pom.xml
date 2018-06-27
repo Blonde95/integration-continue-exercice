@@ -4,11 +4,11 @@
 	<!-- artifactId correspond au nom de votre application, n'hésitez pas à 
 		changer la valeur par défaut -->
 	<artifactId>fileattente</artifactId>
-	<version>12354</version>
+	<version>12355-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<scm>
 		<developerConnection>scm:git:https://github.com/Blonde95/integrationexercice.git</developerConnection>
-	  <tag>12345</tag>
+	  <tag>v1.0</tag>
   </scm>
 	<!-- précisez le nom et l'email de chaque membre de votre groupe -->
 	<developers>
