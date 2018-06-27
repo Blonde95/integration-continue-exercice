@@ -7,7 +7,7 @@
 	<version>2</version>
 	<packaging>war</packaging>
 	<scm>
-		<developerConnection>scm:git:https://github.com/Blonde95/integration-continue-exercice.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/Blonde95/integrationexercice.git</developerConnection>
 	  <tag>2</tag>
   </scm>
 	<!-- précisez le nom et l'email de chaque membre de votre groupe -->
